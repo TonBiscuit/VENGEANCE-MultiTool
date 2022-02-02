@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.backlinko.com/app/uploads/2021/03/discord-users-and-funding-statistics.png">
+  <img src="https://korben.info/app/uploads/2020/03/Kx6eqWf.png">
 </p>
 
 <h1 align="center">[Discord] - All Tools In One (V2.1)</h1>
