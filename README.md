@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://korben.info/app/uploads/2020/03/Kx6eqWf.png">
+  <img src="https://discord-france.fr/assets/img/pics/2021/06/politique-banner.png">
 </p>
 
 <h1 align="center">[Discord] - All Tools In One (V2.1)</h1>
