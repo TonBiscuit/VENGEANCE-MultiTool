@@ -2,7 +2,7 @@
   <img src="https://discord-france.fr/assets/img/pics/2021/06/politique-banner.png">
 </p>
 
-<h1 align="center">[Discord] - All Tools In One (V2.1)</h1>
+<h1 align="center">𝘿𝙞𝙨𝙘𝙤𝙧𝙙 - 𝙑𝙀𝙉𝙂𝙀𝘼𝙉𝘾𝙀 𝙈𝙪𝙡𝙩𝙞𝙏𝙤𝙤𝙡 (𝘝1.0)</h1>
 <p align="center">
   <a href="https://github.com/AstraaDev/Discord-All-Tools-In-One/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
