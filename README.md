@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/covarage-95%25-green">
   </a>
   <a href="https://github.com/AstraaDev">
-    <img src="https://discord.com/widget?id=853385498662928405&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+    <img src="https://discord.com/widget?id=853385498662928405&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
     <img src="https://img.shields.io/github/repo-size/xTyxer/VENGEANCE-MultiTool.svg?label=Repo%20size&style=flat-square">
   </a>
   <a href="https://github.com/AstraaDev">
