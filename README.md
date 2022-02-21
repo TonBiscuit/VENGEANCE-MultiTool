@@ -29,11 +29,6 @@
   <img src="https://cdn.discordapp.com/attachments/915314920894119956/945359125724926032/standard.gif">
 </p>
 
-|AstraaHome was made for Educational purposes|
-|-------------------------------------------------|
-This project was created only for good purposes and personal use.
-By using AstraaHome, you agree that you hold responsibility and accountability of any consequences caused by your actions.
-
 ## Features
 - [ ] - [Selft Bot]() - Turn your discord account into a self bot.
 - [x] - [RAT Tool](https://github.com/moom825/Discord-RAT) - Create a RAT file. Once the victim runs it, you can control his PC through a BOT Discord.
