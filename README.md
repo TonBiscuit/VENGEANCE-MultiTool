@@ -29,12 +29,6 @@
   <img src="https://cdn.discordapp.com/attachments/915314920894119956/945359125724926032/standard.gif">
 </p>
 
-<p align="center">
-  [Discord] - All Tools In One is a Script Gathering for Windows/Linux systems written in Python.
-</p>
-
-## Disclaimer
-
 |AstraaHome was made for Educational purposes|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
