@@ -22,6 +22,7 @@
     <p align="center"> <a href="https://twitter.com/astraadev" target="blank">
     <img src="https://img.shields.io/twitter/follow/astraadev?logo=twitter&style=for-the-badge" alt="astraadev"/></a>
   </a>
+  <p align="center"><a href="https://dsc.gg/astraadev" target="_blank"><img src="https://discordapp.com/api/guilds/869346091743707206/widget.png?style=shield" alt="shield.png"></a>
 </p>
 
 <p align="center">
