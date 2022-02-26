@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/banners/736241513431826497/b648b79aaf6d71e17dbeade09e24b939.png?size=1024">
 </p>
 
-<h1 align="center">𝘿𝙞𝙨𝙘𝙤𝙧𝙙 - 𝙑𝙀𝙉𝙂𝙀𝘼𝙉𝘾𝙀 𝙈𝙪𝙡𝙩𝙞𝙏𝙤𝙤𝙡 (𝘝1.0)</h1>
+<h1 align="center">𝗗𝗜𝗦𝗖𝗢𝗥𝗗 - 𝗩𝗘𝗡𝗚𝗘𝗔𝗡𝗖𝗘 𝗠𝘂𝗹𝘁𝗶𝗧𝗼𝗼𝗹 (𝘝1.0)</h1>
 <p align="center">
   <a href="https://github.com/AstraaDev/Discord-All-Tools-In-One/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
