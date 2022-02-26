@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/banners/736241513431826497/b648b79aaf6d71e17dbeade09e24b939.png?size=1224">
+  <img src="https://cdn.discordapp.com/banners/736241513431826497/b648b79aaf6d71e17dbeade09e24b939.png?size=1024">
 </p>
 
 <h1 align="center">𝘿𝙞𝙨𝙘𝙤𝙧𝙙 - 𝙑𝙀𝙉𝙂𝙀𝘼𝙉𝘾𝙀 𝙈𝙪𝙡𝙩𝙞𝙏𝙤𝙤𝙡 (𝘝1.0)</h1>
